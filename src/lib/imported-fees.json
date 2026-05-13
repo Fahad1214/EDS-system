@@ -1,0 +1,4023 @@
+{
+  "schoolName": "Eden Grammar School System",
+  "sourceFile": "Styled_March_Fee_2023.xlsx",
+  "importedAt": "2026-05-13T06:41:12.435Z",
+  "billingCycle": {
+    "label": "March 2023",
+    "monthKey": "2023-03-01",
+    "dueDate": "2023-03-10",
+    "monthName": "March",
+    "year": 2023
+  },
+  "rawMonthLabels": [
+    "March",
+    "March+ Feb",
+    "March/Feb"
+  ],
+  "records": [
+    {
+      "familyNumber": "71",
+      "students": [
+        "Ahmad",
+        "Luqman",
+        "Abiha",
+        "Laiba Noor",
+        "Arbaz"
+      ],
+      "fatherName": "Abdul Rauf",
+      "rawMonthLabel": "March",
+      "tuitionFee": 7500,
+      "otherCharges": 0,
+      "rawTotalAmount": 7500,
+      "carriedForward": 0,
+      "totalDue": 7500,
+      "amountReceived": 0,
+      "arrears": 7500
+    },
+    {
+      "familyNumber": "69",
+      "students": [
+        "M.Shukran",
+        "M.Talha",
+        "Tamazir Fatima",
+        "Meerab"
+      ],
+      "fatherName": "M.Tayyab",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6900,
+      "otherCharges": 10000,
+      "rawTotalAmount": 16900,
+      "carriedForward": 0,
+      "totalDue": 16900,
+      "amountReceived": 5800,
+      "arrears": 11100
+    },
+    {
+      "familyNumber": "25",
+      "students": [
+        "Zain Afzaal",
+        "Saim"
+      ],
+      "fatherName": "M.Afzaal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3400,
+      "otherCharges": 0,
+      "rawTotalAmount": 3400,
+      "carriedForward": 0,
+      "totalDue": 3400,
+      "amountReceived": 3400,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "46",
+      "students": [
+        "Minahil",
+        "Abdul.Manan Khan",
+        "Asadullah Khan",
+        "M.Abdullah Khan"
+      ],
+      "fatherName": "Asif Javeed Khan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 7700,
+      "otherCharges": 12200,
+      "rawTotalAmount": 7700,
+      "carriedForward": 0,
+      "totalDue": 19900,
+      "amountReceived": 7700,
+      "arrears": 12200
+    },
+    {
+      "familyNumber": "48",
+      "students": [
+        "M.Yazan",
+        "Rehan",
+        "Urooj Fatima"
+      ],
+      "fatherName": "Azeem Asghar",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4700,
+      "otherCharges": 1000,
+      "rawTotalAmount": 9000,
+      "carriedForward": 9000,
+      "totalDue": 14700,
+      "amountReceived": 0,
+      "arrears": 14700
+    },
+    {
+      "familyNumber": "53",
+      "students": [
+        "Ayan Ali",
+        "Eshal Fatima"
+      ],
+      "fatherName": "Mehdi Hassan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4000,
+      "otherCharges": 500,
+      "rawTotalAmount": 4500,
+      "carriedForward": 0,
+      "totalDue": 4500,
+      "amountReceived": 3600,
+      "arrears": 900
+    },
+    {
+      "familyNumber": "62",
+      "students": [
+        "Minha",
+        "Kinza",
+        "Anaya"
+      ],
+      "fatherName": "Sohail Ahmad Khan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5700,
+      "otherCharges": 0,
+      "rawTotalAmount": 5700,
+      "carriedForward": 0,
+      "totalDue": 5700,
+      "amountReceived": 5700,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "29",
+      "students": [
+        "M.Azan",
+        "Arham"
+      ],
+      "fatherName": "Saifullah",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4000,
+      "amountReceived": 0,
+      "arrears": 4000
+    },
+    {
+      "familyNumber": "26",
+      "students": [
+        "Umer",
+        "Hafsa",
+        "Arfa Nayyar"
+      ],
+      "fatherName": "Nayyer Hafeez",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5400,
+      "otherCharges": 0,
+      "rawTotalAmount": 5400,
+      "carriedForward": 0,
+      "totalDue": 5400,
+      "amountReceived": 5000,
+      "arrears": 400
+    },
+    {
+      "familyNumber": "1",
+      "students": [
+        "Anaya Fatima",
+        "Moez Khan"
+      ],
+      "fatherName": "Asfand Yar",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3800,
+      "otherCharges": 0,
+      "rawTotalAmount": 3800,
+      "carriedForward": 0,
+      "totalDue": 3800,
+      "amountReceived": 3400,
+      "arrears": 400
+    },
+    {
+      "familyNumber": "16",
+      "students": [
+        "M.Hisham",
+        "Hussan Sultan",
+        "Eshal Fatima"
+      ],
+      "fatherName": "Abdul.Manan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5500,
+      "otherCharges": 0,
+      "rawTotalAmount": 5500,
+      "carriedForward": 0,
+      "totalDue": 5500,
+      "amountReceived": 5500,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "85",
+      "students": [
+        "Khadija Shakeela",
+        "Ayesha",
+        "M.Sharjeel Shakeel"
+      ],
+      "fatherName": "Shakeel Ahmad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5200,
+      "otherCharges": 0,
+      "rawTotalAmount": 5200,
+      "carriedForward": 0,
+      "totalDue": 5200,
+      "amountReceived": 5000,
+      "arrears": 200
+    },
+    {
+      "familyNumber": "52",
+      "students": [
+        "Zainab Yasir",
+        "Hamza Yasir"
+      ],
+      "fatherName": "M.Yasir",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3800,
+      "otherCharges": 0,
+      "rawTotalAmount": 3800,
+      "carriedForward": 0,
+      "totalDue": 3800,
+      "amountReceived": 3600,
+      "arrears": 200
+    },
+    {
+      "familyNumber": "34",
+      "students": [
+        "Samara"
+      ],
+      "fatherName": "Zaheer Ahmad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1900,
+      "otherCharges": 4980,
+      "rawTotalAmount": 6880,
+      "carriedForward": 0,
+      "totalDue": 6880,
+      "amountReceived": 0,
+      "arrears": 6880
+    },
+    {
+      "familyNumber": "80",
+      "students": [
+        "Suleman"
+      ],
+      "fatherName": "Niamat Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1850,
+      "otherCharges": 4830,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 6680,
+      "amountReceived": 0,
+      "arrears": 6680
+    },
+    {
+      "familyNumber": "80",
+      "students": [
+        "Fajar",
+        "Mohsin Ali",
+        "Unar"
+      ],
+      "fatherName": "Allah Ditta",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4900,
+      "otherCharges": 0,
+      "rawTotalAmount": 4900,
+      "carriedForward": 3000,
+      "totalDue": 7900,
+      "amountReceived": 4900,
+      "arrears": 3000
+    },
+    {
+      "familyNumber": "75",
+      "students": [
+        "Eshal Fatima",
+        "M.Arham"
+      ],
+      "fatherName": "Waseem Saleem",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3800,
+      "otherCharges": 0,
+      "rawTotalAmount": 3800,
+      "carriedForward": 0,
+      "totalDue": 3800,
+      "amountReceived": 3800,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "90",
+      "students": [
+        "Dua Fatima",
+        "Jannat Fatima"
+      ],
+      "fatherName": "Khuram Butt,Shakeel Butt",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5000,
+      "otherCharges": 0,
+      "rawTotalAmount": 5000,
+      "carriedForward": 0,
+      "totalDue": 5000,
+      "amountReceived": 5000,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "77",
+      "students": [
+        "Zubda Aslam",
+        "Amina Aslam"
+      ],
+      "fatherName": "M.Aslam",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3700,
+      "otherCharges": 0,
+      "rawTotalAmount": 3700,
+      "carriedForward": 0,
+      "totalDue": 3700,
+      "amountReceived": 3700,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "81",
+      "students": [
+        "Kanwal Riaz",
+        "Insha Riaz"
+      ],
+      "fatherName": "Rana Raiz",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "rawTotalAmount": 3900,
+      "carriedForward": 0,
+      "totalDue": 3900,
+      "amountReceived": 0,
+      "arrears": 3900
+    },
+    {
+      "familyNumber": "9",
+      "students": [
+        "Abdul Ahad",
+        "Aiza"
+      ],
+      "fatherName": "Ghulam Shabir",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2900,
+      "otherCharges": 0,
+      "rawTotalAmount": 2900,
+      "carriedForward": 3030,
+      "totalDue": 5930,
+      "amountReceived": 0,
+      "arrears": 5930
+    },
+    {
+      "familyNumber": "23",
+      "students": [
+        "Rehan Ali",
+        "Armish",
+        "Raffey Hussain"
+      ],
+      "fatherName": "Ameer Umer",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5600,
+      "otherCharges": 0,
+      "rawTotalAmount": 5600,
+      "carriedForward": 0,
+      "totalDue": 5600,
+      "amountReceived": 5000,
+      "arrears": 600
+    },
+    {
+      "familyNumber": "18",
+      "students": [
+        "Hassan",
+        "Hisham"
+      ],
+      "fatherName": "M.Saeed",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3300,
+      "otherCharges": 6520,
+      "rawTotalAmount": 9820,
+      "carriedForward": 0,
+      "totalDue": 9820,
+      "amountReceived": 3000,
+      "arrears": 6820
+    },
+    {
+      "familyNumber": "45",
+      "students": [
+        "M.Jawad Khan",
+        "Hania Abdul Rehman"
+      ],
+      "fatherName": "Abdul Rehman",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3800,
+      "otherCharges": 10200,
+      "rawTotalAmount": 14000,
+      "carriedForward": 0,
+      "totalDue": 14000,
+      "amountReceived": 0,
+      "arrears": 14000
+    },
+    {
+      "familyNumber": "88",
+      "students": [
+        "Abdul Rehman",
+        "Abdul Rauf",
+        "Abdullah Khalid"
+      ],
+      "fatherName": "Abdul Rauf",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5900,
+      "otherCharges": 0,
+      "rawTotalAmount": 5900,
+      "carriedForward": 0,
+      "totalDue": 5900,
+      "amountReceived": 0,
+      "arrears": 5900
+    },
+    {
+      "familyNumber": "55",
+      "students": [
+        "Mehak Nazir",
+        "Sabiha",
+        "Hamza",
+        "Nabeela Nazir"
+      ],
+      "fatherName": "Nazir Ahmad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6500,
+      "otherCharges": 0,
+      "rawTotalAmount": 14320,
+      "carriedForward": 7820,
+      "totalDue": 14320,
+      "amountReceived": 0,
+      "arrears": 14320
+    },
+    {
+      "familyNumber": "27",
+      "students": [
+        "Hamza Irfan",
+        "Esha Noor",
+        "M.Ahmad",
+        "Sawaira",
+        "Saba"
+      ],
+      "fatherName": "M.Irfan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 8500,
+      "otherCharges": 15760,
+      "rawTotalAmount": 8500,
+      "carriedForward": 0,
+      "totalDue": 24260,
+      "amountReceived": 0,
+      "arrears": 24260
+    },
+    {
+      "familyNumber": "39",
+      "students": [
+        "M.Zeeshan",
+        "M.Usman",
+        "Faizan",
+        "Subhan"
+      ],
+      "fatherName": "M.Ashfaq",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6000,
+      "otherCharges": 0,
+      "rawTotalAmount": 1300,
+      "carriedForward": 20960,
+      "totalDue": 26960,
+      "amountReceived": 7080,
+      "arrears": 19880
+    },
+    {
+      "familyNumber": "94",
+      "students": [
+        "M.Meer Zman"
+      ],
+      "fatherName": "M.Saleem Khan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 950,
+      "rawTotalAmount": 0,
+      "carriedForward": 1600,
+      "totalDue": 4350,
+      "amountReceived": 0,
+      "arrears": 4350
+    },
+    {
+      "familyNumber": "51",
+      "students": [
+        "Ayman Bibi",
+        "Um-e-Habiba"
+      ],
+      "fatherName": "Waseem Barkat",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4300,
+      "otherCharges": 0,
+      "rawTotalAmount": 4300,
+      "carriedForward": 0,
+      "totalDue": 4300,
+      "amountReceived": 0,
+      "arrears": 4300
+    },
+    {
+      "familyNumber": "22",
+      "students": [
+        "M.Ayar"
+      ],
+      "fatherName": "Liaquat Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1900,
+      "otherCharges": 3630,
+      "rawTotalAmount": 7230,
+      "carriedForward": 1700,
+      "totalDue": 7230,
+      "amountReceived": 0,
+      "arrears": 7230
+    },
+    {
+      "familyNumber": "50",
+      "students": [
+        "Fiza Fatima",
+        "M",
+        "Uzair Ali",
+        "Salar Haider"
+      ],
+      "fatherName": "Ilyas Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3000,
+      "otherCharges": 11530,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 14530,
+      "amountReceived": 0,
+      "arrears": 14530
+    },
+    {
+      "familyNumber": "68",
+      "students": [
+        "Moez Bilal",
+        "M.Muneeb Bilal"
+      ],
+      "fatherName": "Asad Bilal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3600,
+      "otherCharges": 0,
+      "rawTotalAmount": 3600,
+      "carriedForward": 0,
+      "totalDue": 3600,
+      "amountReceived": 0,
+      "arrears": 3600
+    },
+    {
+      "familyNumber": "28",
+      "students": [
+        "Rameen Sadam",
+        "Rabia Sadam",
+        "Mahnoor",
+        "Maham Shahzadi"
+      ],
+      "fatherName": "Nazar Abbas",
+      "rawMonthLabel": "March",
+      "tuitionFee": 7000,
+      "otherCharges": 0,
+      "rawTotalAmount": 7000,
+      "carriedForward": 0,
+      "totalDue": 7000,
+      "amountReceived": 6600,
+      "arrears": 400
+    },
+    {
+      "familyNumber": "47",
+      "students": [
+        "Fatima Rashid"
+      ],
+      "fatherName": "Rashid Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1600,
+      "otherCharges": 0,
+      "rawTotalAmount": 1600,
+      "carriedForward": 1930,
+      "totalDue": 3530,
+      "amountReceived": 1600,
+      "arrears": 1930
+    },
+    {
+      "familyNumber": "72",
+      "students": [
+        "Abdul Hadi"
+      ],
+      "fatherName": "Rizwan Manzoor",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "rawTotalAmount": 2000,
+      "carriedForward": 2830,
+      "totalDue": 4830,
+      "amountReceived": 2000,
+      "arrears": 2830
+    },
+    {
+      "familyNumber": "38",
+      "students": [
+        "Kainat Nazir"
+      ],
+      "fatherName": "Asif Hussain",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1600,
+      "otherCharges": 0,
+      "rawTotalAmount": 1600,
+      "carriedForward": 0,
+      "totalDue": 1600,
+      "amountReceived": 0,
+      "arrears": 1600
+    },
+    {
+      "familyNumber": "15",
+      "students": [
+        "Umer Kashif",
+        "M.Bilal Kashif"
+      ],
+      "fatherName": "Kashif Nazir",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3500,
+      "otherCharges": 1160,
+      "rawTotalAmount": 4660,
+      "carriedForward": 0,
+      "totalDue": 4660,
+      "amountReceived": 0,
+      "arrears": 4660
+    },
+    {
+      "familyNumber": "21",
+      "students": [
+        "M.Azan"
+      ],
+      "fatherName": "M.Zubair",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "rawTotalAmount": 1900,
+      "carriedForward": 5030,
+      "totalDue": 6930,
+      "amountReceived": 1900,
+      "arrears": 5030
+    },
+    {
+      "familyNumber": "19",
+      "students": [
+        "M.Umer",
+        "Fatima-ul-Zahra"
+      ],
+      "fatherName": "Abid-ullah-Zahid",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3600,
+      "otherCharges": 0,
+      "rawTotalAmount": 3600,
+      "carriedForward": 0,
+      "totalDue": 3600,
+      "amountReceived": 1200,
+      "arrears": 2400
+    },
+    {
+      "familyNumber": "12",
+      "students": [
+        "Ahmad Hassan",
+        "Rana Hussain"
+      ],
+      "fatherName": "M.Awais",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3700,
+      "otherCharges": 8680,
+      "rawTotalAmount": 3700,
+      "carriedForward": 0,
+      "totalDue": 12380,
+      "amountReceived": 3500,
+      "arrears": 8880
+    },
+    {
+      "familyNumber": "11",
+      "students": [
+        "Abu Bakar",
+        "Abu Harraira"
+      ],
+      "fatherName": "Nassar Hayat",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "rawTotalAmount": 3900,
+      "carriedForward": 0,
+      "totalDue": 3900,
+      "amountReceived": 3900,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "95",
+      "students": [
+        "Ghulshan Shahzadi",
+        "Ali Raza"
+      ],
+      "fatherName": "Allaha Rakha",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3800,
+      "otherCharges": 3300,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 7100,
+      "amountReceived": 0,
+      "arrears": 7100
+    },
+    {
+      "familyNumber": "14",
+      "students": [
+        "Avarish",
+        "Zernish",
+        "Rehan"
+      ],
+      "fatherName": "M.Afzal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6300,
+      "otherCharges": 11980,
+      "rawTotalAmount": 23980,
+      "carriedForward": 5700,
+      "totalDue": 23980,
+      "amountReceived": 0,
+      "arrears": 23980
+    },
+    {
+      "familyNumber": "67",
+      "students": [
+        "Saira Ali",
+        "M.Umer"
+      ],
+      "fatherName": "Ghulam Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4800,
+      "otherCharges": 17600,
+      "rawTotalAmount": 0,
+      "carriedForward": 9780,
+      "totalDue": 32180,
+      "amountReceived": 32180,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "10",
+      "students": [
+        "Abdul Rehman",
+        "Abdullah",
+        "M.Umer",
+        "Rameen"
+      ],
+      "fatherName": "Imran Ashraf",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6600,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 6600,
+      "amountReceived": 0,
+      "arrears": 6600
+    },
+    {
+      "familyNumber": "61",
+      "students": [
+        "M.Qasim(1st)"
+      ],
+      "fatherName": "M. Mstaqeem Khan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "rawTotalAmount": 1900,
+      "carriedForward": 0,
+      "totalDue": 1900,
+      "amountReceived": 1900,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "41",
+      "students": [
+        "Aima Iran (1st)",
+        "Hussain Khan(3rd)"
+      ],
+      "fatherName": "Iran Khan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3600,
+      "otherCharges": 0,
+      "rawTotalAmount": 3600,
+      "carriedForward": 6000,
+      "totalDue": 9600,
+      "amountReceived": 3600,
+      "arrears": 6000
+    },
+    {
+      "familyNumber": "78",
+      "students": [
+        "M.Ibrahim(4th)",
+        "Zain ul abdin(5th)",
+        "Saira Parveen (8th)"
+      ],
+      "fatherName": "Amir Shahzad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6300,
+      "otherCharges": 0,
+      "rawTotalAmount": 6300,
+      "carriedForward": 2600,
+      "totalDue": 8900,
+      "amountReceived": 6300,
+      "arrears": 2600
+    },
+    {
+      "familyNumber": "76",
+      "students": [
+        "Fatima Tuz Zahra (2nd)"
+      ],
+      "fatherName": "Abid Hussain",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "rawTotalAmount": 1900,
+      "carriedForward": 0,
+      "totalDue": 1900,
+      "amountReceived": 1900,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "6",
+      "students": [
+        "Abul Hadi( Prep)",
+        "M.Bilal Asif(3rd)"
+      ],
+      "fatherName": "M Asif",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3500,
+      "otherCharges": 9860,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 13360,
+      "amountReceived": 0,
+      "arrears": 13360
+    },
+    {
+      "familyNumber": "79",
+      "students": [
+        "Arish Aslam(4th)",
+        "M. Arham Abbas(6th)"
+      ],
+      "fatherName": "Arshad Aslam",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3600,
+      "otherCharges": 3600,
+      "rawTotalAmount": 3600,
+      "carriedForward": 0,
+      "totalDue": 7200,
+      "amountReceived": 0,
+      "arrears": 7200
+    },
+    {
+      "familyNumber": "71",
+      "students": [
+        "Aira Irfan(Nursery)"
+      ],
+      "fatherName": "Iran Khan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "rawTotalAmount": 1800,
+      "carriedForward": 0,
+      "totalDue": 1800,
+      "amountReceived": 1800,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "31",
+      "students": [
+        "Anaya Fatima(Prep)",
+        "Areeba Imran(3rd)"
+      ],
+      "fatherName": "M. Imran",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3300,
+      "otherCharges": 8370,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 11670,
+      "amountReceived": 0,
+      "arrears": 11670
+    },
+    {
+      "familyNumber": "41",
+      "students": [
+        "Azan Ali(PreP)",
+        "Hiba Fatima(Pre)",
+        "Shahzad Ali(4th)",
+        "zahira Fatima(3rd)"
+      ],
+      "fatherName": "Majad Hussain",
+      "rawMonthLabel": "March",
+      "tuitionFee": 7800,
+      "otherCharges": 3870,
+      "rawTotalAmount": 11670,
+      "carriedForward": 0,
+      "totalDue": 11670,
+      "amountReceived": 0,
+      "arrears": 11670
+    },
+    {
+      "familyNumber": "51",
+      "students": [
+        "Abdul Manan(Prep)",
+        "Urooj Fatima( Prep)"
+      ],
+      "fatherName": "M.Yaseen",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3300,
+      "otherCharges": 10000,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 13300,
+      "amountReceived": 0,
+      "arrears": 13300
+    },
+    {
+      "familyNumber": "86",
+      "students": [
+        "Fatima Abid(5th)"
+      ],
+      "fatherName": "Abid Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1500,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1500,
+      "amountReceived": 1500,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "87",
+      "students": [
+        "M.Hussain(6th)"
+      ],
+      "fatherName": "Ghulam Mujaba",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 2000,
+      "amountReceived": 2000,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "84",
+      "students": [
+        "M.Obaid(7th)"
+      ],
+      "fatherName": "Fazal Hussain",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 2000,
+      "amountReceived": 2000,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "64",
+      "students": [
+        "Zain Asghar(Pre 9th)"
+      ],
+      "fatherName": "M.Shoaib Asghar",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2200,
+      "otherCharges": 48220,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 50420,
+      "amountReceived": 0,
+      "arrears": 50420
+    },
+    {
+      "familyNumber": "54",
+      "students": [
+        "M. Awais(4th)"
+      ],
+      "fatherName": "Shahid Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2000,
+      "otherCharges": 2500,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4500,
+      "amountReceived": 0,
+      "arrears": 4500
+    },
+    {
+      "familyNumber": "30",
+      "students": [
+        "M Umar(2nd) Sajal(4th)"
+      ],
+      "fatherName": "Ghulam Mustafa",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3800,
+      "otherCharges": 2690,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 6490,
+      "amountReceived": 0,
+      "arrears": 6490
+    },
+    {
+      "familyNumber": "56",
+      "students": [
+        "Sheza Safian(1st)Ali Hassan(2nd) Hassan(7th)"
+      ],
+      "fatherName": "Abu Safian",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5600,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 5600,
+      "amountReceived": 5300,
+      "arrears": 300
+    },
+    {
+      "familyNumber": "57",
+      "students": [
+        "Faizan Merani(1st)"
+      ],
+      "fatherName": "Lal Khan",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1800,
+      "amountReceived": 1600,
+      "arrears": 200
+    },
+    {
+      "familyNumber": "89",
+      "students": [
+        "Frza Fatima(5th)",
+        "Rehan Afzaal(6th)"
+      ],
+      "fatherName": "M Afzal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3000,
+      "otherCharges": 6900,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 9900,
+      "amountReceived": 0,
+      "arrears": 9900
+    },
+    {
+      "familyNumber": "44",
+      "students": [
+        "M Harib Tariq(1st)",
+        "M Iraj Tariq(5th)",
+        "Moueez Tariq(3rd)"
+      ],
+      "fatherName": "Tariq Mehmood",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5700,
+      "otherCharges": 14250,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 19950,
+      "amountReceived": 0,
+      "arrears": 19950
+    },
+    {
+      "familyNumber": "58",
+      "students": [
+        "Syed Nalain(1st)",
+        "Anam Fatima(3rd)",
+        "Zahra fatima(Prep)"
+      ],
+      "fatherName": "Anwar Hussain Shah,Hussain",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5600,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 5600,
+      "amountReceived": 5000,
+      "arrears": 600
+    },
+    {
+      "familyNumber": "33",
+      "students": [
+        "M. Kabeer Ali(Prep)",
+        "Horain Fatima(Prep)",
+        "M Hussnain(3rd)"
+      ],
+      "fatherName": "Abdul Rauf",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5100,
+      "otherCharges": 9000,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 14100,
+      "amountReceived": 0,
+      "arrears": 14100
+    },
+    {
+      "familyNumber": "32",
+      "students": [
+        "M Burhan(Prep)",
+        "Reyyan Saleem(5th)"
+      ],
+      "fatherName": "M Saleem",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3800,
+      "otherCharges": 4160,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 7960,
+      "amountReceived": 0,
+      "arrears": 7960
+    },
+    {
+      "familyNumber": "87",
+      "students": [
+        "Amber Mushtaq(5th)",
+        "Subhan Ali(8th)"
+      ],
+      "fatherName": "Mushtaq Ahmad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 0,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 3050,
+      "totalDue": 3050,
+      "amountReceived": 0,
+      "arrears": 3050
+    },
+    {
+      "familyNumber": "59",
+      "students": [
+        "Abdul Subhan(1st)",
+        "Maham Fatima(3rd)",
+        "Eman Fatima(6th)"
+      ],
+      "fatherName": "M Bilal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5500,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 14250,
+      "totalDue": 19750,
+      "amountReceived": 5500,
+      "arrears": 14250
+    },
+    {
+      "familyNumber": "60",
+      "students": [
+        "Iqra Sarwar(1st)"
+      ],
+      "fatherName": "M Sarwar",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 2000,
+      "amountReceived": 0,
+      "arrears": 2000
+    },
+    {
+      "familyNumber": "74",
+      "students": [
+        "Anam Fatima(2nd)",
+        "Rehan Ahmed(Nursery)"
+      ],
+      "fatherName": "Faiz Ahmad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 660,
+      "totalDue": 4560,
+      "amountReceived": 3900,
+      "arrears": 660
+    },
+    {
+      "familyNumber": "36",
+      "students": [
+        "M. Arham(Nursery)"
+      ],
+      "fatherName": "Arshad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1800,
+      "amountReceived": 1800,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "49",
+      "students": [
+        "M Ali(1st)",
+        "Minahal(3rd)"
+      ],
+      "fatherName": "Ashfaq Ahmad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4000,
+      "amountReceived": 0,
+      "arrears": 4000
+    },
+    {
+      "familyNumber": "73",
+      "students": [
+        "Jannat Batool(2nd)",
+        "Umee-Farwa(3rd)"
+      ],
+      "fatherName": "Ali Asghar",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3700,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 3700,
+      "amountReceived": 0,
+      "arrears": 3700
+    },
+    {
+      "familyNumber": "63",
+      "students": [
+        "Ali Abbas(2nd)",
+        "Zania (2nd)",
+        "Khadija (Prep)"
+      ],
+      "fatherName": "Sajjad Ali,Shabbaz Faisal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4800,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 4530,
+      "totalDue": 9330,
+      "amountReceived": 4800,
+      "arrears": 4530
+    },
+    {
+      "familyNumber": "66",
+      "students": [
+        "Abdullah Sultan(Prep)",
+        "Aiza Fatima(2nd)"
+      ],
+      "fatherName": "Sahail khuram Shahzad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3500,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 3500,
+      "amountReceived": 3500,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "93",
+      "students": [
+        "Zainab Tanveer(5th)",
+        "Fatima Tanveer(5th)",
+        "Haleema(Nursery)"
+      ],
+      "fatherName": "Tanveer Iqbal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6100,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 6100,
+      "amountReceived": 6100,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "42",
+      "students": [
+        "M Muzaifa(1st)",
+        "Umaima(3rd)",
+        "Mirha(Nursery)"
+      ],
+      "fatherName": "M Qasim",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5600,
+      "otherCharges": 3860,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 9460,
+      "amountReceived": 0,
+      "arrears": 9460
+    },
+    {
+      "familyNumber": "65",
+      "students": [
+        "Hareem Fatima(2nd)",
+        "Hazaq (4th)",
+        "Ayyan Ali(6th)"
+      ],
+      "fatherName": "Waseem Abbas",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5500,
+      "otherCharges": 14610,
+      "rawTotalAmount": 0,
+      "carriedForward": 4650,
+      "totalDue": 24760,
+      "amountReceived": 0,
+      "arrears": 24760
+    },
+    {
+      "familyNumber": "91",
+      "students": [
+        "M Talah(5th)"
+      ],
+      "fatherName": "Allah Ditta",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1800,
+      "amountReceived": 1800,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "70",
+      "students": [
+        "M Talal(2nd)M Adan(3rd)Abdul Hadi(7th)",
+        "Ayan Amjad(9th)"
+      ],
+      "fatherName": "Amjad Ali",
+      "rawMonthLabel": "March+ Feb",
+      "tuitionFee": 13000,
+      "otherCharges": 13570,
+      "rawTotalAmount": 0,
+      "carriedForward": 13570,
+      "totalDue": 40140,
+      "amountReceived": 26570,
+      "arrears": 13570
+    },
+    {
+      "familyNumber": "92",
+      "students": [
+        "Adil Afzal(5th)",
+        "Hania (Prep)"
+      ],
+      "fatherName": "M Afzal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3600,
+      "otherCharges": 6000,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 9600,
+      "amountReceived": 3600,
+      "arrears": 6000
+    },
+    {
+      "familyNumber": "96",
+      "students": [
+        "Qasim Akram(5th)",
+        "Subhan Akram(10th)"
+      ],
+      "fatherName": "Akram Ullah",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4200,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4200,
+      "amountReceived": 4000,
+      "arrears": 200
+    },
+    {
+      "familyNumber": "31",
+      "students": [
+        "M Faizan(Nursery)",
+        "Adiqa(1st)",
+        "Anaya(3rd)"
+      ],
+      "fatherName": "Rana Shakeel Ahmed",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4000,
+      "amountReceived": 0,
+      "arrears": 4000
+    },
+    {
+      "familyNumber": "37",
+      "students": [
+        "Dua Fatima(1st)",
+        "Maida Noor(6th)"
+      ],
+      "fatherName": "M Imran",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3400,
+      "otherCharges": 28900,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 32300,
+      "amountReceived": 0,
+      "arrears": 32300
+    },
+    {
+      "familyNumber": "10",
+      "students": [
+        "Abdul-Rehman(Nursery)",
+        "Abdullah(3rd)",
+        "Rameen(7th)",
+        "M Umer(4th)"
+      ],
+      "fatherName": "Imran Ashraf",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6600,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 6600,
+      "amountReceived": 6600,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "17",
+      "students": [
+        "Fajar(Prep)",
+        "Meheram(Prep)",
+        "Mahnoor(5th)",
+        "Hassan(6th)",
+        "Hareeb Ali(6th)"
+      ],
+      "fatherName": "M Shahbaz",
+      "rawMonthLabel": "March",
+      "tuitionFee": 10000,
+      "otherCharges": 10000,
+      "rawTotalAmount": 0,
+      "carriedForward": 19060,
+      "totalDue": 39060,
+      "amountReceived": 39060,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "99",
+      "students": [
+        "Abiha Zahid(7th)"
+      ],
+      "fatherName": "Zahid Riaz",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 2000,
+      "amountReceived": 2000,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "98",
+      "students": [
+        "Azan Nasir (7th)"
+      ],
+      "fatherName": "M Nasir",
+      "rawMonthLabel": "March/Feb",
+      "tuitionFee": 3600,
+      "otherCharges": 3000,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 6600,
+      "amountReceived": 0,
+      "arrears": 6600
+    },
+    {
+      "familyNumber": "100",
+      "students": [
+        "Zaman Alayas (7th)"
+      ],
+      "fatherName": "M Alayas",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1700,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1700,
+      "amountReceived": 1700,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "97",
+      "students": [
+        "Samavia Murtaza(6th)",
+        "Azan Murtaza(8th)"
+      ],
+      "fatherName": "Ghulam Murtaza",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4300,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4300,
+      "amountReceived": 0,
+      "arrears": 4300
+    },
+    {
+      "familyNumber": "1",
+      "students": [
+        "Anaya sadiqa",
+        "Ayesha Nur",
+        "Prep"
+      ],
+      "fatherName": "Allah Ditta",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2900,
+      "otherCharges": 7130,
+      "rawTotalAmount": 0,
+      "carriedForward": 2900,
+      "totalDue": 12930,
+      "amountReceived": 5000,
+      "arrears": 7930
+    },
+    {
+      "familyNumber": "11",
+      "students": [
+        "Maryam 7th"
+      ],
+      "fatherName": "M.Riaz",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1500,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1500,
+      "amountReceived": 1500,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "36",
+      "students": [
+        "Um.e.Hania",
+        "Esha Qaisar 1st",
+        "3rd"
+      ],
+      "fatherName": "Qaiser Mehmood",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3100,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 3100,
+      "amountReceived": 2700,
+      "arrears": 400
+    },
+    {
+      "familyNumber": "6",
+      "students": [
+        "Arash Noor P.G"
+      ],
+      "fatherName": "Yasir",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1700,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1700,
+      "amountReceived": 1700,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "8",
+      "students": [
+        "M.Haris 5th"
+      ],
+      "fatherName": "M.Bilal",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1500,
+      "otherCharges": 3950,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 5450,
+      "amountReceived": 0,
+      "arrears": 5450
+    },
+    {
+      "familyNumber": "21",
+      "students": [
+        "Murtaa Imran Nur"
+      ],
+      "fatherName": "M.Imran",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1900,
+      "amountReceived": 1900,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "19",
+      "students": [
+        "Ali Shair 8th",
+        "Ali Hassan Prep"
+      ],
+      "fatherName": "M.Ashraf",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 3900,
+      "amountReceived": 3200,
+      "arrears": 700
+    },
+    {
+      "familyNumber": "25",
+      "students": [
+        "Ahsan Zahid 3rd"
+      ],
+      "fatherName": "Zahid Mansoor",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2000,
+      "otherCharges": 3460,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 5460,
+      "amountReceived": 1800,
+      "arrears": 3660
+    },
+    {
+      "familyNumber": "30",
+      "students": [
+        "Ali Hassan 3rd",
+        "Sohaib Haider 6th"
+      ],
+      "fatherName": "Kashif Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3200,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 3830,
+      "totalDue": 7030,
+      "amountReceived": 3200,
+      "arrears": 3830
+    },
+    {
+      "familyNumber": "37",
+      "students": [
+        "Faria Mushtaq Prep",
+        "M.Mustafa 1st"
+      ],
+      "fatherName": "M.Mushataq",
+      "rawMonthLabel": "March",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4000,
+      "amountReceived": 0,
+      "arrears": 4000
+    },
+    {
+      "familyNumber": "24",
+      "students": [
+        "M.Ahmad Nur",
+        "Momina 2nd",
+        "Maria 3rd",
+        "Fahad 2nd"
+      ],
+      "fatherName": "Zaheer Abbas",
+      "rawMonthLabel": "March",
+      "tuitionFee": 6000,
+      "otherCharges": 5000,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 11000,
+      "amountReceived": 0,
+      "arrears": 11000
+    },
+    {
+      "familyNumber": "10",
+      "students": [
+        "Zoya ShahZadi Nur",
+        "Azlan 1st",
+        "Ali Hassan 2nd"
+      ],
+      "fatherName": "Shahid Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 5100,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 5330,
+      "totalDue": 10430,
+      "amountReceived": 5100,
+      "arrears": 5330
+    },
+    {
+      "familyNumber": "14",
+      "students": [
+        "M.Arham Nur"
+      ],
+      "fatherName": "Nabeel Khalid",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 3330,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 5130,
+      "amountReceived": 0,
+      "arrears": 5130
+    },
+    {
+      "familyNumber": "13",
+      "students": [
+        "Saim Ali 7th"
+      ],
+      "fatherName": "AfZaal Hussain",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1800,
+      "amountReceived": 1800,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "23",
+      "students": [
+        "FaiZan 1st",
+        "Subhan Ali 6th"
+      ],
+      "fatherName": "Hassan Hussain",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3400,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 200,
+      "totalDue": 3600,
+      "amountReceived": 3400,
+      "arrears": 200
+    },
+    {
+      "familyNumber": "15",
+      "students": [
+        "Hussain Akram PG Nur"
+      ],
+      "fatherName": "M.Akram",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2200,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 2830,
+      "totalDue": 5030,
+      "amountReceived": 2200,
+      "arrears": 2830
+    },
+    {
+      "familyNumber": "28",
+      "students": [
+        "M.Ibrahim 3rd"
+      ],
+      "fatherName": "M.Zohaib Aam",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2100,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 2100,
+      "amountReceived": 2100,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "20",
+      "students": [
+        "M.Sufian 2nd"
+      ],
+      "fatherName": "Abdul-Lateef",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1500,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1500,
+      "amountReceived": 1500,
+      "arrears": 0
+    },
+    {
+      "familyNumber": "40",
+      "students": [
+        "Smaya Ghulam Prep",
+        "Minahil Mustafa Nur"
+      ],
+      "fatherName": "Ghulam Mustafa",
+      "rawMonthLabel": "March",
+      "tuitionFee": 3400,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 7010,
+      "totalDue": 10410,
+      "amountReceived": 3400,
+      "arrears": 7010
+    },
+    {
+      "familyNumber": "12",
+      "students": [
+        "Momna 9th"
+      ],
+      "fatherName": "Shahid Mehmood",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2500,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 3140,
+      "totalDue": 5640,
+      "amountReceived": 2500,
+      "arrears": 3140
+    },
+    {
+      "familyNumber": "27",
+      "students": [
+        "Hijab Zara 3rd"
+      ],
+      "fatherName": "Sajid Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 100,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1900,
+      "amountReceived": 1600,
+      "arrears": 300
+    },
+    {
+      "familyNumber": "16",
+      "students": [
+        "M.Talha prep",
+        "Horia P.G"
+      ],
+      "fatherName": "M. Sajjad",
+      "rawMonthLabel": "March",
+      "tuitionFee": 2500,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 2500,
+      "amountReceived": 0,
+      "arrears": 2500
+    },
+    {
+      "familyNumber": "31",
+      "students": [
+        "Ahmed Abbas 4th"
+      ],
+      "fatherName": "M.Abbas",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 1800,
+      "amountReceived": 0,
+      "arrears": 1800
+    },
+    {
+      "familyNumber": "41",
+      "students": [
+        "Sadia Rashid prep"
+      ],
+      "fatherName": "Rashid Ali",
+      "rawMonthLabel": "March",
+      "tuitionFee": 1700,
+      "otherCharges": 2430,
+      "rawTotalAmount": 0,
+      "carriedForward": 0,
+      "totalDue": 4130,
+      "amountReceived": 0,
+      "arrears": 4130
+    }
+  ],
+  "dashboardRecords": [
+    {
+      "id": "family-0001",
+      "familyNumber": "71",
+      "familyCode": "EGSS-FAM-0001",
+      "students": [
+        "Ahmad",
+        "Luqman",
+        "Abiha",
+        "Laiba Noor",
+        "Arbaz"
+      ],
+      "fatherName": "Abdul Rauf",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 7500,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0002",
+      "familyNumber": "69",
+      "familyCode": "EGSS-FAM-0002",
+      "students": [
+        "M.Shukran",
+        "M.Talha",
+        "Tamazir Fatima",
+        "Meerab"
+      ],
+      "fatherName": "M.Tayyab",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6900,
+      "otherCharges": 10000,
+      "carriedForward": 0,
+      "amountReceived": 5800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0003",
+      "familyNumber": "25",
+      "familyCode": "EGSS-FAM-0003",
+      "students": [
+        "Zain Afzaal",
+        "Saim"
+      ],
+      "fatherName": "M.Afzaal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3400,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3400,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0004",
+      "familyNumber": "46",
+      "familyCode": "EGSS-FAM-0004",
+      "students": [
+        "Minahil",
+        "Abdul.Manan Khan",
+        "Asadullah Khan",
+        "M.Abdullah Khan"
+      ],
+      "fatherName": "Asif Javeed Khan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 7700,
+      "otherCharges": 12200,
+      "carriedForward": 0,
+      "amountReceived": 7700,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0005",
+      "familyNumber": "48",
+      "familyCode": "EGSS-FAM-0005",
+      "students": [
+        "M.Yazan",
+        "Rehan",
+        "Urooj Fatima"
+      ],
+      "fatherName": "Azeem Asghar",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4700,
+      "otherCharges": 1000,
+      "carriedForward": 9000,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0006",
+      "familyNumber": "53",
+      "familyCode": "EGSS-FAM-0006",
+      "students": [
+        "Ayan Ali",
+        "Eshal Fatima"
+      ],
+      "fatherName": "Mehdi Hassan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4000,
+      "otherCharges": 500,
+      "carriedForward": 0,
+      "amountReceived": 3600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0007",
+      "familyNumber": "62",
+      "familyCode": "EGSS-FAM-0007",
+      "students": [
+        "Minha",
+        "Kinza",
+        "Anaya"
+      ],
+      "fatherName": "Sohail Ahmad Khan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5700,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5700,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0008",
+      "familyNumber": "29",
+      "familyCode": "EGSS-FAM-0008",
+      "students": [
+        "M.Azan",
+        "Arham"
+      ],
+      "fatherName": "Saifullah",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0009",
+      "familyNumber": "26",
+      "familyCode": "EGSS-FAM-0009",
+      "students": [
+        "Umer",
+        "Hafsa",
+        "Arfa Nayyar"
+      ],
+      "fatherName": "Nayyer Hafeez",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5400,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0010",
+      "familyNumber": "1",
+      "familyCode": "EGSS-FAM-0010",
+      "students": [
+        "Anaya Fatima",
+        "Moez Khan"
+      ],
+      "fatherName": "Asfand Yar",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3400,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0011",
+      "familyNumber": "16",
+      "familyCode": "EGSS-FAM-0011",
+      "students": [
+        "M.Hisham",
+        "Hussan Sultan",
+        "Eshal Fatima"
+      ],
+      "fatherName": "Abdul.Manan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5500,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0012",
+      "familyNumber": "85",
+      "familyCode": "EGSS-FAM-0012",
+      "students": [
+        "Khadija Shakeela",
+        "Ayesha",
+        "M.Sharjeel Shakeel"
+      ],
+      "fatherName": "Shakeel Ahmad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5200,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0013",
+      "familyNumber": "52",
+      "familyCode": "EGSS-FAM-0013",
+      "students": [
+        "Zainab Yasir",
+        "Hamza Yasir"
+      ],
+      "fatherName": "M.Yasir",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0014",
+      "familyNumber": "34",
+      "familyCode": "EGSS-FAM-0014",
+      "students": [
+        "Samara"
+      ],
+      "fatherName": "Zaheer Ahmad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1900,
+      "otherCharges": 4980,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0015",
+      "familyNumber": "80",
+      "familyCode": "EGSS-FAM-0015",
+      "students": [
+        "Suleman"
+      ],
+      "fatherName": "Niamat Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1850,
+      "otherCharges": 4830,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0016",
+      "familyNumber": "80",
+      "familyCode": "EGSS-FAM-0016",
+      "students": [
+        "Fajar",
+        "Mohsin Ali",
+        "Unar"
+      ],
+      "fatherName": "Allah Ditta",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4900,
+      "otherCharges": 0,
+      "carriedForward": 3000,
+      "amountReceived": 4900,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0017",
+      "familyNumber": "75",
+      "familyCode": "EGSS-FAM-0017",
+      "students": [
+        "Eshal Fatima",
+        "M.Arham"
+      ],
+      "fatherName": "Waseem Saleem",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0018",
+      "familyNumber": "90",
+      "familyCode": "EGSS-FAM-0018",
+      "students": [
+        "Dua Fatima",
+        "Jannat Fatima"
+      ],
+      "fatherName": "Khuram Butt,Shakeel Butt",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0019",
+      "familyNumber": "77",
+      "familyCode": "EGSS-FAM-0019",
+      "students": [
+        "Zubda Aslam",
+        "Amina Aslam"
+      ],
+      "fatherName": "M.Aslam",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3700,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3700,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0020",
+      "familyNumber": "81",
+      "familyCode": "EGSS-FAM-0020",
+      "students": [
+        "Kanwal Riaz",
+        "Insha Riaz"
+      ],
+      "fatherName": "Rana Raiz",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0021",
+      "familyNumber": "9",
+      "familyCode": "EGSS-FAM-0021",
+      "students": [
+        "Abdul Ahad",
+        "Aiza"
+      ],
+      "fatherName": "Ghulam Shabir",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2900,
+      "otherCharges": 0,
+      "carriedForward": 3030,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0022",
+      "familyNumber": "23",
+      "familyCode": "EGSS-FAM-0022",
+      "students": [
+        "Rehan Ali",
+        "Armish",
+        "Raffey Hussain"
+      ],
+      "fatherName": "Ameer Umer",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0023",
+      "familyNumber": "18",
+      "familyCode": "EGSS-FAM-0023",
+      "students": [
+        "Hassan",
+        "Hisham"
+      ],
+      "fatherName": "M.Saeed",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3300,
+      "otherCharges": 6520,
+      "carriedForward": 0,
+      "amountReceived": 3000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0024",
+      "familyNumber": "45",
+      "familyCode": "EGSS-FAM-0024",
+      "students": [
+        "M.Jawad Khan",
+        "Hania Abdul Rehman"
+      ],
+      "fatherName": "Abdul Rehman",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3800,
+      "otherCharges": 10200,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0025",
+      "familyNumber": "88",
+      "familyCode": "EGSS-FAM-0025",
+      "students": [
+        "Abdul Rehman",
+        "Abdul Rauf",
+        "Abdullah Khalid"
+      ],
+      "fatherName": "Abdul Rauf",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5900,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0026",
+      "familyNumber": "55",
+      "familyCode": "EGSS-FAM-0026",
+      "students": [
+        "Mehak Nazir",
+        "Sabiha",
+        "Hamza",
+        "Nabeela Nazir"
+      ],
+      "fatherName": "Nazir Ahmad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6500,
+      "otherCharges": 0,
+      "carriedForward": 7820,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0027",
+      "familyNumber": "27",
+      "familyCode": "EGSS-FAM-0027",
+      "students": [
+        "Hamza Irfan",
+        "Esha Noor",
+        "M.Ahmad",
+        "Sawaira",
+        "Saba"
+      ],
+      "fatherName": "M.Irfan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 8500,
+      "otherCharges": 15760,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0028",
+      "familyNumber": "39",
+      "familyCode": "EGSS-FAM-0028",
+      "students": [
+        "M.Zeeshan",
+        "M.Usman",
+        "Faizan",
+        "Subhan"
+      ],
+      "fatherName": "M.Ashfaq",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6000,
+      "otherCharges": 0,
+      "carriedForward": 20960,
+      "amountReceived": 7080,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0029",
+      "familyNumber": "94",
+      "familyCode": "EGSS-FAM-0029",
+      "students": [
+        "M.Meer Zman"
+      ],
+      "fatherName": "M.Saleem Khan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 950,
+      "carriedForward": 1600,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0030",
+      "familyNumber": "51",
+      "familyCode": "EGSS-FAM-0030",
+      "students": [
+        "Ayman Bibi",
+        "Um-e-Habiba"
+      ],
+      "fatherName": "Waseem Barkat",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4300,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0031",
+      "familyNumber": "22",
+      "familyCode": "EGSS-FAM-0031",
+      "students": [
+        "M.Ayar"
+      ],
+      "fatherName": "Liaquat Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1900,
+      "otherCharges": 3630,
+      "carriedForward": 1700,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0032",
+      "familyNumber": "50",
+      "familyCode": "EGSS-FAM-0032",
+      "students": [
+        "Fiza Fatima",
+        "M",
+        "Uzair Ali",
+        "Salar Haider"
+      ],
+      "fatherName": "Ilyas Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3000,
+      "otherCharges": 11530,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0033",
+      "familyNumber": "68",
+      "familyCode": "EGSS-FAM-0033",
+      "students": [
+        "Moez Bilal",
+        "M.Muneeb Bilal"
+      ],
+      "fatherName": "Asad Bilal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0034",
+      "familyNumber": "28",
+      "familyCode": "EGSS-FAM-0034",
+      "students": [
+        "Rameen Sadam",
+        "Rabia Sadam",
+        "Mahnoor",
+        "Maham Shahzadi"
+      ],
+      "fatherName": "Nazar Abbas",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 7000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 6600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0035",
+      "familyNumber": "47",
+      "familyCode": "EGSS-FAM-0035",
+      "students": [
+        "Fatima Rashid"
+      ],
+      "fatherName": "Rashid Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1600,
+      "otherCharges": 0,
+      "carriedForward": 1930,
+      "amountReceived": 1600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0036",
+      "familyNumber": "72",
+      "familyCode": "EGSS-FAM-0036",
+      "students": [
+        "Abdul Hadi"
+      ],
+      "fatherName": "Rizwan Manzoor",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "carriedForward": 2830,
+      "amountReceived": 2000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0037",
+      "familyNumber": "38",
+      "familyCode": "EGSS-FAM-0037",
+      "students": [
+        "Kainat Nazir"
+      ],
+      "fatherName": "Asif Hussain",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0038",
+      "familyNumber": "15",
+      "familyCode": "EGSS-FAM-0038",
+      "students": [
+        "Umer Kashif",
+        "M.Bilal Kashif"
+      ],
+      "fatherName": "Kashif Nazir",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3500,
+      "otherCharges": 1160,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0039",
+      "familyNumber": "21",
+      "familyCode": "EGSS-FAM-0039",
+      "students": [
+        "M.Azan"
+      ],
+      "fatherName": "M.Zubair",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "carriedForward": 5030,
+      "amountReceived": 1900,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0040",
+      "familyNumber": "19",
+      "familyCode": "EGSS-FAM-0040",
+      "students": [
+        "M.Umer",
+        "Fatima-ul-Zahra"
+      ],
+      "fatherName": "Abid-ullah-Zahid",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1200,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0041",
+      "familyNumber": "12",
+      "familyCode": "EGSS-FAM-0041",
+      "students": [
+        "Ahmad Hassan",
+        "Rana Hussain"
+      ],
+      "fatherName": "M.Awais",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3700,
+      "otherCharges": 8680,
+      "carriedForward": 0,
+      "amountReceived": 3500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0042",
+      "familyNumber": "11",
+      "familyCode": "EGSS-FAM-0042",
+      "students": [
+        "Abu Bakar",
+        "Abu Harraira"
+      ],
+      "fatherName": "Nassar Hayat",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3900,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0043",
+      "familyNumber": "95",
+      "familyCode": "EGSS-FAM-0043",
+      "students": [
+        "Ghulshan Shahzadi",
+        "Ali Raza"
+      ],
+      "fatherName": "Allaha Rakha",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3800,
+      "otherCharges": 3300,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0044",
+      "familyNumber": "14",
+      "familyCode": "EGSS-FAM-0044",
+      "students": [
+        "Avarish",
+        "Zernish",
+        "Rehan"
+      ],
+      "fatherName": "M.Afzal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6300,
+      "otherCharges": 11980,
+      "carriedForward": 5700,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0045",
+      "familyNumber": "67",
+      "familyCode": "EGSS-FAM-0045",
+      "students": [
+        "Saira Ali",
+        "M.Umer"
+      ],
+      "fatherName": "Ghulam Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4800,
+      "otherCharges": 17600,
+      "carriedForward": 9780,
+      "amountReceived": 32180,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0046",
+      "familyNumber": "10",
+      "familyCode": "EGSS-FAM-0046",
+      "students": [
+        "Abdul Rehman",
+        "Abdullah",
+        "M.Umer",
+        "Rameen"
+      ],
+      "fatherName": "Imran Ashraf",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0047",
+      "familyNumber": "61",
+      "familyCode": "EGSS-FAM-0047",
+      "students": [
+        "M.Qasim(1st)"
+      ],
+      "fatherName": "M. Mstaqeem Khan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1900,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0048",
+      "familyNumber": "41",
+      "familyCode": "EGSS-FAM-0048",
+      "students": [
+        "Aima Iran (1st)",
+        "Hussain Khan(3rd)"
+      ],
+      "fatherName": "Iran Khan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3600,
+      "otherCharges": 0,
+      "carriedForward": 6000,
+      "amountReceived": 3600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0049",
+      "familyNumber": "78",
+      "familyCode": "EGSS-FAM-0049",
+      "students": [
+        "M.Ibrahim(4th)",
+        "Zain ul abdin(5th)",
+        "Saira Parveen (8th)"
+      ],
+      "fatherName": "Amir Shahzad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6300,
+      "otherCharges": 0,
+      "carriedForward": 2600,
+      "amountReceived": 6300,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0050",
+      "familyNumber": "76",
+      "familyCode": "EGSS-FAM-0050",
+      "students": [
+        "Fatima Tuz Zahra (2nd)"
+      ],
+      "fatherName": "Abid Hussain",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1900,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0051",
+      "familyNumber": "6",
+      "familyCode": "EGSS-FAM-0051",
+      "students": [
+        "Abul Hadi( Prep)",
+        "M.Bilal Asif(3rd)"
+      ],
+      "fatherName": "M Asif",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3500,
+      "otherCharges": 9860,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0052",
+      "familyNumber": "79",
+      "familyCode": "EGSS-FAM-0052",
+      "students": [
+        "Arish Aslam(4th)",
+        "M. Arham Abbas(6th)"
+      ],
+      "fatherName": "Arshad Aslam",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3600,
+      "otherCharges": 3600,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0053",
+      "familyNumber": "71",
+      "familyCode": "EGSS-FAM-0053",
+      "students": [
+        "Aira Irfan(Nursery)"
+      ],
+      "fatherName": "Iran Khan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0054",
+      "familyNumber": "31",
+      "familyCode": "EGSS-FAM-0054",
+      "students": [
+        "Anaya Fatima(Prep)",
+        "Areeba Imran(3rd)"
+      ],
+      "fatherName": "M. Imran",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3300,
+      "otherCharges": 8370,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0055",
+      "familyNumber": "41",
+      "familyCode": "EGSS-FAM-0055",
+      "students": [
+        "Azan Ali(PreP)",
+        "Hiba Fatima(Pre)",
+        "Shahzad Ali(4th)",
+        "zahira Fatima(3rd)"
+      ],
+      "fatherName": "Majad Hussain",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 7800,
+      "otherCharges": 3870,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0056",
+      "familyNumber": "51",
+      "familyCode": "EGSS-FAM-0056",
+      "students": [
+        "Abdul Manan(Prep)",
+        "Urooj Fatima( Prep)"
+      ],
+      "fatherName": "M.Yaseen",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3300,
+      "otherCharges": 10000,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0057",
+      "familyNumber": "86",
+      "familyCode": "EGSS-FAM-0057",
+      "students": [
+        "Fatima Abid(5th)"
+      ],
+      "fatherName": "Abid Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1500,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0058",
+      "familyNumber": "87",
+      "familyCode": "EGSS-FAM-0058",
+      "students": [
+        "M.Hussain(6th)"
+      ],
+      "fatherName": "Ghulam Mujaba",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 2000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0059",
+      "familyNumber": "84",
+      "familyCode": "EGSS-FAM-0059",
+      "students": [
+        "M.Obaid(7th)"
+      ],
+      "fatherName": "Fazal Hussain",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 2000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0060",
+      "familyNumber": "64",
+      "familyCode": "EGSS-FAM-0060",
+      "students": [
+        "Zain Asghar(Pre 9th)"
+      ],
+      "fatherName": "M.Shoaib Asghar",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2200,
+      "otherCharges": 48220,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0061",
+      "familyNumber": "54",
+      "familyCode": "EGSS-FAM-0061",
+      "students": [
+        "M. Awais(4th)"
+      ],
+      "fatherName": "Shahid Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2000,
+      "otherCharges": 2500,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0062",
+      "familyNumber": "30",
+      "familyCode": "EGSS-FAM-0062",
+      "students": [
+        "M Umar(2nd) Sajal(4th)"
+      ],
+      "fatherName": "Ghulam Mustafa",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3800,
+      "otherCharges": 2690,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0063",
+      "familyNumber": "56",
+      "familyCode": "EGSS-FAM-0063",
+      "students": [
+        "Sheza Safian(1st)Ali Hassan(2nd) Hassan(7th)"
+      ],
+      "fatherName": "Abu Safian",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5300,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0064",
+      "familyNumber": "57",
+      "familyCode": "EGSS-FAM-0064",
+      "students": [
+        "Faizan Merani(1st)"
+      ],
+      "fatherName": "Lal Khan",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0065",
+      "familyNumber": "89",
+      "familyCode": "EGSS-FAM-0065",
+      "students": [
+        "Frza Fatima(5th)",
+        "Rehan Afzaal(6th)"
+      ],
+      "fatherName": "M Afzal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3000,
+      "otherCharges": 6900,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0066",
+      "familyNumber": "44",
+      "familyCode": "EGSS-FAM-0066",
+      "students": [
+        "M Harib Tariq(1st)",
+        "M Iraj Tariq(5th)",
+        "Moueez Tariq(3rd)"
+      ],
+      "fatherName": "Tariq Mehmood",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5700,
+      "otherCharges": 14250,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0067",
+      "familyNumber": "58",
+      "familyCode": "EGSS-FAM-0067",
+      "students": [
+        "Syed Nalain(1st)",
+        "Anam Fatima(3rd)",
+        "Zahra fatima(Prep)"
+      ],
+      "fatherName": "Anwar Hussain Shah,Hussain",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 5000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0068",
+      "familyNumber": "33",
+      "familyCode": "EGSS-FAM-0068",
+      "students": [
+        "M. Kabeer Ali(Prep)",
+        "Horain Fatima(Prep)",
+        "M Hussnain(3rd)"
+      ],
+      "fatherName": "Abdul Rauf",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5100,
+      "otherCharges": 9000,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0069",
+      "familyNumber": "32",
+      "familyCode": "EGSS-FAM-0069",
+      "students": [
+        "M Burhan(Prep)",
+        "Reyyan Saleem(5th)"
+      ],
+      "fatherName": "M Saleem",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3800,
+      "otherCharges": 4160,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0070",
+      "familyNumber": "87",
+      "familyCode": "EGSS-FAM-0070",
+      "students": [
+        "Amber Mushtaq(5th)",
+        "Subhan Ali(8th)"
+      ],
+      "fatherName": "Mushtaq Ahmad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 0,
+      "otherCharges": 0,
+      "carriedForward": 3050,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0071",
+      "familyNumber": "59",
+      "familyCode": "EGSS-FAM-0071",
+      "students": [
+        "Abdul Subhan(1st)",
+        "Maham Fatima(3rd)",
+        "Eman Fatima(6th)"
+      ],
+      "fatherName": "M Bilal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5500,
+      "otherCharges": 0,
+      "carriedForward": 14250,
+      "amountReceived": 5500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0072",
+      "familyNumber": "60",
+      "familyCode": "EGSS-FAM-0072",
+      "students": [
+        "Iqra Sarwar(1st)"
+      ],
+      "fatherName": "M Sarwar",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0073",
+      "familyNumber": "74",
+      "familyCode": "EGSS-FAM-0073",
+      "students": [
+        "Anam Fatima(2nd)",
+        "Rehan Ahmed(Nursery)"
+      ],
+      "fatherName": "Faiz Ahmad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "carriedForward": 660,
+      "amountReceived": 3900,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0074",
+      "familyNumber": "36",
+      "familyCode": "EGSS-FAM-0074",
+      "students": [
+        "M. Arham(Nursery)"
+      ],
+      "fatherName": "Arshad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0075",
+      "familyNumber": "49",
+      "familyCode": "EGSS-FAM-0075",
+      "students": [
+        "M Ali(1st)",
+        "Minahal(3rd)"
+      ],
+      "fatherName": "Ashfaq Ahmad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0076",
+      "familyNumber": "73",
+      "familyCode": "EGSS-FAM-0076",
+      "students": [
+        "Jannat Batool(2nd)",
+        "Umee-Farwa(3rd)"
+      ],
+      "fatherName": "Ali Asghar",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3700,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0077",
+      "familyNumber": "63",
+      "familyCode": "EGSS-FAM-0077",
+      "students": [
+        "Ali Abbas(2nd)",
+        "Zania (2nd)",
+        "Khadija (Prep)"
+      ],
+      "fatherName": "Sajjad Ali,Shabbaz Faisal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4800,
+      "otherCharges": 0,
+      "carriedForward": 4530,
+      "amountReceived": 4800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0078",
+      "familyNumber": "66",
+      "familyCode": "EGSS-FAM-0078",
+      "students": [
+        "Abdullah Sultan(Prep)",
+        "Aiza Fatima(2nd)"
+      ],
+      "fatherName": "Sahail khuram Shahzad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3500,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0079",
+      "familyNumber": "93",
+      "familyCode": "EGSS-FAM-0079",
+      "students": [
+        "Zainab Tanveer(5th)",
+        "Fatima Tanveer(5th)",
+        "Haleema(Nursery)"
+      ],
+      "fatherName": "Tanveer Iqbal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6100,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 6100,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0080",
+      "familyNumber": "42",
+      "familyCode": "EGSS-FAM-0080",
+      "students": [
+        "M Muzaifa(1st)",
+        "Umaima(3rd)",
+        "Mirha(Nursery)"
+      ],
+      "fatherName": "M Qasim",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5600,
+      "otherCharges": 3860,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0081",
+      "familyNumber": "65",
+      "familyCode": "EGSS-FAM-0081",
+      "students": [
+        "Hareem Fatima(2nd)",
+        "Hazaq (4th)",
+        "Ayyan Ali(6th)"
+      ],
+      "fatherName": "Waseem Abbas",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5500,
+      "otherCharges": 14610,
+      "carriedForward": 4650,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0082",
+      "familyNumber": "91",
+      "familyCode": "EGSS-FAM-0082",
+      "students": [
+        "M Talah(5th)"
+      ],
+      "fatherName": "Allah Ditta",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0083",
+      "familyNumber": "70",
+      "familyCode": "EGSS-FAM-0083",
+      "students": [
+        "M Talal(2nd)M Adan(3rd)Abdul Hadi(7th)",
+        "Ayan Amjad(9th)"
+      ],
+      "fatherName": "Amjad Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 13000,
+      "otherCharges": 13570,
+      "carriedForward": 13570,
+      "amountReceived": 26570,
+      "dueDate": "2023-03-10",
+      "importNote": "Imported from row month label: March+ Feb"
+    },
+    {
+      "id": "family-0084",
+      "familyNumber": "92",
+      "familyCode": "EGSS-FAM-0084",
+      "students": [
+        "Adil Afzal(5th)",
+        "Hania (Prep)"
+      ],
+      "fatherName": "M Afzal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3600,
+      "otherCharges": 6000,
+      "carriedForward": 0,
+      "amountReceived": 3600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0085",
+      "familyNumber": "96",
+      "familyCode": "EGSS-FAM-0085",
+      "students": [
+        "Qasim Akram(5th)",
+        "Subhan Akram(10th)"
+      ],
+      "fatherName": "Akram Ullah",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4200,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 4000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0086",
+      "familyNumber": "31",
+      "familyCode": "EGSS-FAM-0086",
+      "students": [
+        "M Faizan(Nursery)",
+        "Adiqa(1st)",
+        "Anaya(3rd)"
+      ],
+      "fatherName": "Rana Shakeel Ahmed",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0087",
+      "familyNumber": "37",
+      "familyCode": "EGSS-FAM-0087",
+      "students": [
+        "Dua Fatima(1st)",
+        "Maida Noor(6th)"
+      ],
+      "fatherName": "M Imran",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3400,
+      "otherCharges": 28900,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0088",
+      "familyNumber": "10",
+      "familyCode": "EGSS-FAM-0088",
+      "students": [
+        "Abdul-Rehman(Nursery)",
+        "Abdullah(3rd)",
+        "Rameen(7th)",
+        "M Umer(4th)"
+      ],
+      "fatherName": "Imran Ashraf",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6600,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 6600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0089",
+      "familyNumber": "17",
+      "familyCode": "EGSS-FAM-0089",
+      "students": [
+        "Fajar(Prep)",
+        "Meheram(Prep)",
+        "Mahnoor(5th)",
+        "Hassan(6th)",
+        "Hareeb Ali(6th)"
+      ],
+      "fatherName": "M Shahbaz",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 10000,
+      "otherCharges": 10000,
+      "carriedForward": 19060,
+      "amountReceived": 39060,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0090",
+      "familyNumber": "99",
+      "familyCode": "EGSS-FAM-0090",
+      "students": [
+        "Abiha Zahid(7th)"
+      ],
+      "fatherName": "Zahid Riaz",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 2000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0091",
+      "familyNumber": "98",
+      "familyCode": "EGSS-FAM-0091",
+      "students": [
+        "Azan Nasir (7th)"
+      ],
+      "fatherName": "M Nasir",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3600,
+      "otherCharges": 3000,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": "Imported from row month label: March/Feb"
+    },
+    {
+      "id": "family-0092",
+      "familyNumber": "100",
+      "familyCode": "EGSS-FAM-0092",
+      "students": [
+        "Zaman Alayas (7th)"
+      ],
+      "fatherName": "M Alayas",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1700,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1700,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0093",
+      "familyNumber": "97",
+      "familyCode": "EGSS-FAM-0093",
+      "students": [
+        "Samavia Murtaza(6th)",
+        "Azan Murtaza(8th)"
+      ],
+      "fatherName": "Ghulam Murtaza",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4300,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0094",
+      "familyNumber": "1",
+      "familyCode": "EGSS-FAM-0094",
+      "students": [
+        "Anaya sadiqa",
+        "Ayesha Nur",
+        "Prep"
+      ],
+      "fatherName": "Allah Ditta",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2900,
+      "otherCharges": 7130,
+      "carriedForward": 2900,
+      "amountReceived": 5000,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0095",
+      "familyNumber": "11",
+      "familyCode": "EGSS-FAM-0095",
+      "students": [
+        "Maryam 7th"
+      ],
+      "fatherName": "M.Riaz",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1500,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0096",
+      "familyNumber": "36",
+      "familyCode": "EGSS-FAM-0096",
+      "students": [
+        "Um.e.Hania",
+        "Esha Qaisar 1st",
+        "3rd"
+      ],
+      "fatherName": "Qaiser Mehmood",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3100,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 2700,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0097",
+      "familyNumber": "6",
+      "familyCode": "EGSS-FAM-0097",
+      "students": [
+        "Arash Noor P.G"
+      ],
+      "fatherName": "Yasir",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1700,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1700,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0098",
+      "familyNumber": "8",
+      "familyCode": "EGSS-FAM-0098",
+      "students": [
+        "M.Haris 5th"
+      ],
+      "fatherName": "M.Bilal",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1500,
+      "otherCharges": 3950,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0099",
+      "familyNumber": "21",
+      "familyCode": "EGSS-FAM-0099",
+      "students": [
+        "Murtaa Imran Nur"
+      ],
+      "fatherName": "M.Imran",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1900,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1900,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0100",
+      "familyNumber": "19",
+      "familyCode": "EGSS-FAM-0100",
+      "students": [
+        "Ali Shair 8th",
+        "Ali Hassan Prep"
+      ],
+      "fatherName": "M.Ashraf",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3900,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 3200,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0101",
+      "familyNumber": "25",
+      "familyCode": "EGSS-FAM-0101",
+      "students": [
+        "Ahsan Zahid 3rd"
+      ],
+      "fatherName": "Zahid Mansoor",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2000,
+      "otherCharges": 3460,
+      "carriedForward": 0,
+      "amountReceived": 1800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0102",
+      "familyNumber": "30",
+      "familyCode": "EGSS-FAM-0102",
+      "students": [
+        "Ali Hassan 3rd",
+        "Sohaib Haider 6th"
+      ],
+      "fatherName": "Kashif Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3200,
+      "otherCharges": 0,
+      "carriedForward": 3830,
+      "amountReceived": 3200,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0103",
+      "familyNumber": "37",
+      "familyCode": "EGSS-FAM-0103",
+      "students": [
+        "Faria Mushtaq Prep",
+        "M.Mustafa 1st"
+      ],
+      "fatherName": "M.Mushataq",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 4000,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0104",
+      "familyNumber": "24",
+      "familyCode": "EGSS-FAM-0104",
+      "students": [
+        "M.Ahmad Nur",
+        "Momina 2nd",
+        "Maria 3rd",
+        "Fahad 2nd"
+      ],
+      "fatherName": "Zaheer Abbas",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 6000,
+      "otherCharges": 5000,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0105",
+      "familyNumber": "10",
+      "familyCode": "EGSS-FAM-0105",
+      "students": [
+        "Zoya ShahZadi Nur",
+        "Azlan 1st",
+        "Ali Hassan 2nd"
+      ],
+      "fatherName": "Shahid Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 5100,
+      "otherCharges": 0,
+      "carriedForward": 5330,
+      "amountReceived": 5100,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0106",
+      "familyNumber": "14",
+      "familyCode": "EGSS-FAM-0106",
+      "students": [
+        "M.Arham Nur"
+      ],
+      "fatherName": "Nabeel Khalid",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 3330,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0107",
+      "familyNumber": "13",
+      "familyCode": "EGSS-FAM-0107",
+      "students": [
+        "Saim Ali 7th"
+      ],
+      "fatherName": "AfZaal Hussain",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1800,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0108",
+      "familyNumber": "23",
+      "familyCode": "EGSS-FAM-0108",
+      "students": [
+        "FaiZan 1st",
+        "Subhan Ali 6th"
+      ],
+      "fatherName": "Hassan Hussain",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3400,
+      "otherCharges": 0,
+      "carriedForward": 200,
+      "amountReceived": 3400,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0109",
+      "familyNumber": "15",
+      "familyCode": "EGSS-FAM-0109",
+      "students": [
+        "Hussain Akram PG Nur"
+      ],
+      "fatherName": "M.Akram",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2200,
+      "otherCharges": 0,
+      "carriedForward": 2830,
+      "amountReceived": 2200,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0110",
+      "familyNumber": "28",
+      "familyCode": "EGSS-FAM-0110",
+      "students": [
+        "M.Ibrahim 3rd"
+      ],
+      "fatherName": "M.Zohaib Aam",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2100,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 2100,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0111",
+      "familyNumber": "20",
+      "familyCode": "EGSS-FAM-0111",
+      "students": [
+        "M.Sufian 2nd"
+      ],
+      "fatherName": "Abdul-Lateef",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1500,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 1500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0112",
+      "familyNumber": "40",
+      "familyCode": "EGSS-FAM-0112",
+      "students": [
+        "Smaya Ghulam Prep",
+        "Minahil Mustafa Nur"
+      ],
+      "fatherName": "Ghulam Mustafa",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 3400,
+      "otherCharges": 0,
+      "carriedForward": 7010,
+      "amountReceived": 3400,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0113",
+      "familyNumber": "12",
+      "familyCode": "EGSS-FAM-0113",
+      "students": [
+        "Momna 9th"
+      ],
+      "fatherName": "Shahid Mehmood",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2500,
+      "otherCharges": 0,
+      "carriedForward": 3140,
+      "amountReceived": 2500,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0114",
+      "familyNumber": "27",
+      "familyCode": "EGSS-FAM-0114",
+      "students": [
+        "Hijab Zara 3rd"
+      ],
+      "fatherName": "Sajid Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 100,
+      "carriedForward": 0,
+      "amountReceived": 1600,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0115",
+      "familyNumber": "16",
+      "familyCode": "EGSS-FAM-0115",
+      "students": [
+        "M.Talha prep",
+        "Horia P.G"
+      ],
+      "fatherName": "M. Sajjad",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 2500,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0116",
+      "familyNumber": "31",
+      "familyCode": "EGSS-FAM-0116",
+      "students": [
+        "Ahmed Abbas 4th"
+      ],
+      "fatherName": "M.Abbas",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1800,
+      "otherCharges": 0,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    },
+    {
+      "id": "family-0117",
+      "familyNumber": "41",
+      "familyCode": "EGSS-FAM-0117",
+      "students": [
+        "Sadia Rashid prep"
+      ],
+      "fatherName": "Rashid Ali",
+      "phone": "",
+      "monthLabel": "March 2023",
+      "tuitionFee": 1700,
+      "otherCharges": 2430,
+      "carriedForward": 0,
+      "amountReceived": 0,
+      "dueDate": "2023-03-10",
+      "importNote": ""
+    }
+  ]
+}
