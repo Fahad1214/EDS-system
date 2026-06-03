@@ -1,5 +1,12 @@
 export type PaymentStatus = "paid" | "partial" | "pending";
 
+export type FeeCycleOption = {
+  id: string;
+  monthKey: string;
+  label: string;
+  dueDate: string;
+};
+
 export type DashboardFamilyRecord = {
   id: string;
   familyId: string;
@@ -14,6 +21,7 @@ export type DashboardFamilyRecord = {
   monthKey: string;
   tuitionFee: number;
   otherCharges: number;
+  annualFund: number;
   carriedForward: number;
   amountReceived: number;
   dueDate: string;
@@ -44,6 +52,7 @@ export type PrintableSlip = {
   rollNumber: string;
   tuitionFee: number;
   otherCharges: number;
+  annualFund: number;
   carriedForward: number;
   totalDue: number;
   amountReceived: number;

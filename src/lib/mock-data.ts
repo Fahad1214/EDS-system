@@ -18,6 +18,7 @@ export const familyRecords: DashboardFamilyRecord[] = importedData.dashboardReco
     monthKey: importedData.billingCycle.monthKey,
     tuitionFee: record.tuitionFee,
     otherCharges: record.otherCharges,
+    annualFund: 0,
     carriedForward: record.carriedForward,
     amountReceived: record.amountReceived,
     dueDate: record.dueDate,
